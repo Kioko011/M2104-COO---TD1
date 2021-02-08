@@ -1,0 +1,26 @@
+=:___________________________________________:=
+
+=:Identification :
+    -Nom du cas : Choisir étage
+    -Objectif : Détailler les étapes suite à un choix d'étage par un passager
+    -Acteurs : Passager
+
+=:Séquencements :
+    -Le cas d'utilisation commence lorsqu'un passager choisit un étage.
+
+=:Pré-conditions :
+    -L'ascenseur est à l'étage du passager.
+
+=:Enchaînement nominal :
+    1. Le passager rentre dans l'ascenseur.
+    2. Le passager choisit un étage.
+    3. Les portes se ferment.
+    4. L'ascenseur monte ou descend selon le choix de l'étage.
+    5. L'ascenceur s'arrête
+    6. Ouverture des portes
+    7. L'ascenceur monte ou descend selon le choix de l'étage.
+
+=:Post-conditions :
+    -L'ascenceur referme les portes
+
+=:___________________________________________:=
